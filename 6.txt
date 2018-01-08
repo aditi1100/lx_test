@@ -1,0 +1,66 @@
+
+
+StockWatch 
+
+Watch list 
+The following are fundamentally strong companies identified by Capital Market analysts. The list is constantly reviewed and updated, adding scrips with upward potential and removing those that have, in our opinion, exhausted their run. 
+
+ COMPANY	IND.	PRICE (Rs)	TTM	TTM	P/E	COMPANY	IND.	PRICE (Rs)	TTM	TTM	P/E
+                    NO.	28-11-2017	YEAR	EPS (Rs)	NO.	28-11-2017	YEAR	EPS (Rs)
+ Ador Welding	41	509	201706	11.7	43.6	JMC Projects	31	547	201709	24.2	22.6
+ Apar Inds.	39	795	201709	37.5 *	21.2	K E C Intl.	102	326	201709	14.4 *	22.6
+ Auto.Corp.of Goa	10	1226	201709	33.3	36.8	Kalpataru Power	102	443	201709	18.8	23.5
+ Automotive Axles	10	1355	201709	40.4	33.6	Kalyani Forge	17	344	201709	10.1	34.0
+ Bajaj Auto	8	3293	201709	134.6 *	24.5	Karnataka Bank	12	159	201709	15.4	10.3
+ Bajaj Corp	65	471	201709	13.7	34.5	KEI Inds.	15	392	201709	15.6	25.2
+ Bajaj Electric	36	494	201709	10.5	47.1	Kennametal India	44	709	201709	13.8	51.5
+ Bajaj Fin.	50	1767	201709	37.5	47.1	Kirl.Pneumatic	25	895	201709	12.6	70.9
+ Balmer Lawrie	108	283	201709	14.2	19.9	Kirloskar Oil	46	355	201709	6.6	53.5
+ Bharat Forge	17	697	201709	14.8	47.1	KSB Pumps	78	845	201709	17.0	49.7
+ Bharat Gears	10	192	201709	4.0	48.5	L G Balakrishnan	10	952	201709	40.5	23.5
+ Camp. & Allied	22	972	201706	46.9	20.7	Lak. Electrical	39	763	201709	38.2	20.0
+ Carborundum Uni.	1	381	201709	9.7 *	39.2	Larsen & Toubro	45	1212	201709	48.4 *	25.0
+ Castrol India	22	402	201709	12.7	31.8	LIC Housing Fin.	51	597	201709	39.4	15.2
+ Clariant Chemica	22	593	201709	4.5	131.2	Lumax Inds.	10	1923	201709	65.3 *	29.5
+ Container Corpn.	106	1333	201709	40.5	32.9	M & M	6	1435	201709	57.3	25.1
+ CRISIL	106	1866	201709	42.5 *	43.9	M M Forgings	17	878	201709	40.4	21.7
+ Cummins India	46	864	201709	24.8	34.9	Maruti Suzuki	6	8626	201709	195.6	44.1
+ D B Corp	47	361	201709	20.1 *	18.0	Mazda	44	395	201706	19.3	20.4
+ Elantas Beck	22	1911	201709	65.8	29.1	Meghmani Organ.	67	107	201709	4.9 *	21.9
+ Engineers India	45	182	201709	5.6	32.7	Modison Metals	39	73	201709	3.7	19.7
+ Esab India	41	831	201709	17.8	46.6	Monte Carlo Fas.	97	515	201709	19.9	25.9
+ Essel Propack	62	289	201709	10.5 *	27.5	Poddar Pigments	22	313	201709	18.1	17.3
+ Federal Bank	12	113	201709	4.8	23.7	Power Grid Corpn	76	208	201709	15.3	13.6
+ Fineotex Chem	22	36	201706	1.6 *	22.0	PPAP Automotive	10	463	201709	21.3	21.7
+ Foseco India	22	1486	201709	48.4	30.7	Prec. Wires (I)	59	224	201706	11.3	19.9
+ Garware-Wall	97	913	201709	41.8	21.9	Rallis India	67	244	201709	9.1 *	26.7
+ GE T&D India	39	434	201709	7.8	55.8	Ruchira Papers	64	172	201709	16.7	10.3
+ GMM Pfaudler	44	601	201709	16.8	35.8	Samkrg Pistons	10	355	201709	20.2	17.6
+ GNA Axles	10	409	201709	16.8	24.4	Savita Oil Tech	69	1400	201709	68.3	20.5
+ Godrej Consumer	65	981	201709	19.4 *	50.6	Schaeffler India	13	5208	201709	135.8	38.4
+ Goodyear India	105	877	201709	52.7	16.7	SKF India	13	1710	201709	50.9	33.6
+ Grauer & Weil	22	77	201709	2.5	31.2	SML ISUZU	5	912	201709	10.9	83.6
+ H D F C	51	1726	201709	71.5 *	24.1	South Ind.Bank	12	31	201709	1.6	19.1
+ Haldyn Glass	55	45	201706	2.3	19.5	St Bk of India	11	333	201709	4.4	75.2
+ Harita Seating	10	915	201709	33.3	27.5	Sundaram Finance	50	1860	201709	53.7	34.7
+ HDFC Bank	12	1863	201709	61.4	30.3	Sundram Fasten.	48	503	201709	16.5	30.6
+ Hero Motocorp	9	3674	201709	166.3	22.1	Supreme Inds.	75	1111	201709	31.1 *	35.7
+ Hikal	71	244	201709	8.4	28.9	Swaraj Engines	46	1999	201709	61.2	32.7
+ Hil Ltd	20	1350	201709	73.7	18.3	TCS	27	2685	201709	132.1 *	20.3
+ Hindustan Media	47	250	201709	23.4 *	10.7	Technofab Engg.	45	241	201706	8.4	28.8
+ Honda Siel Power	39	1309	201709	52.1	25.1	Thermax	44	1068	201709	17.2 *	62.2
+ Honeywell Auto	43	17249	201709	243.7	70.8	Tide Water Oil	22	6658	201709	278.6	23.9
+ HSIL	21	514	201709	12.5	41.1	Time Technoplast	75	190	201709	7.0 *	27.2
+ Huhtamaki PPL	62	301	201709	7.9	38.1	Va Tech Wabag	44	599	201709	21.4 *	28.0
+ IDFC Bank	12	55	201709	1.9	29.6	Vesuvius India	81	1183	201709	45.5	26.0
+ Indian Hume Pipe	31	480	201706	19.1	25.1	V-Guard Inds.	39	234	201709	3.3	70.7
+ Infosys	27	985	201709	62.2 *	15.8	Visaka Inds.	20	629	201709	32.4	19.4
+ Ingersoll-Rand	25	799	201709	23.2	34.5	VST Till. Tract.	7	2110	201709	81.4	25.9
+ Intl. Travel Hse	104	215	201709	12.2	17.6	Whirlpool India	36	1475	201709	26.5	55.7
+ ION Exchange	44	454	201709	30.1	15.1	WPIL	78	699	201706	23.9	29.3
+ ISGEC Heavy	44	6995	201709	191.1	36.6	Yes Bank	12	315	201709	16.4	19.2
+  * indicates that EPS is consolidated.  TTM: Trailing 12-months. This issue Bajaj Auto and Monte Carlo Fashions replace Narayana Hrudayalya and Shilp Gravures.
+
+
+Dec 04 - 17, 2017   CAPITAL MARKET	67
+
